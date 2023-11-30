@@ -13,6 +13,6 @@ mod HelloStarknet {
         let caller = get_caller_address();
         Hello(caller, message);
     }
-
+// i have a great hope if that helps
 }
 //trying to learn cairo on straknet
