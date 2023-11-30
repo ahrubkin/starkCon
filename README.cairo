@@ -15,3 +15,4 @@ mod HelloStarknet {
     }
 
 }
+// new way of my life is beginnning 
